@@ -146,7 +146,7 @@ h1 {
     font-weight: bold;
 }
 
-/* ヒント時間目安のテキストをセンタリング */
-.container p {
+/* guideline-headingのみセンタリング */
+.guideline-heading {
     text-align: center;
 }
